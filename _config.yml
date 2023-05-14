@@ -111,13 +111,16 @@ content:
   - title: Certification
     layout: list
     content:
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
       - layout: top-right
         title: SQLD
         link: https://github.com/TAEWOOGWAK/TAEWOOGWAK.github.io/blob/master/images/profile.jpg?raw=True
         link_text: 📄
         sub_title: Mathematics Department Qualifications (eg. BA Performing Arts)
         caption: Mar 2017 - current
-        quote: Short institution or course description (optional)
+        quote: >
+          Short institution or course description (optional)
       - layout: top-right
         title: 빅데이터분석기사
         link: https://github.com/TAEWOOGWAK/TAEWOOGWAK.github.io/blob/master/images/profile.jpg?raw=True
