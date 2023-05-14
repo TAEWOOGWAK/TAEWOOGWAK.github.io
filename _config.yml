@@ -69,7 +69,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Can AI Augument Data?
-        link: https://github.com/TAEWOOGWAK/AI_Can_Agument_Data/blob/main/Can%20AI%20Augment%20Data.pdf
+        link: https://github.com/TAEWOOGWAK/AI_Can_Agument_Data/blob/main/Can%20AI%20Augment%20Data.pdf?raw=True
         link_text: REPORT
         additional_links:
           - title: TAEWOOGWAK/AI_Can_Agument_Data
