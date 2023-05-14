@@ -76,7 +76,7 @@ content:
             icon: fab fa-github
             url: github.com/TAEWOOGWAK/AI_Can_Agument_Data
         quote: >
-          Short overview of the project (optional)
+          You can browse related documents by clicking on the emoji, icon, or hyperlink
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
   - title: Experience
