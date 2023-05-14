@@ -117,23 +117,28 @@ content:
         link_text: 📄
         sub_title: Mathematics Department Qualifications (eg. BA Performing Arts)
         caption: Mar 2017 - current
-        quote: >
-          Short institution or course description (optional)
+        quote: Short institution or course description (optional)
       - layout: top-right
         title: 빅데이터분석기사
-        sub_title: Mathematics Department Qualifications (eg. BA Performing Arts)
+        link: https://github.com/TAEWOOGWAK/TAEWOOGWAK.github.io/blob/master/images/profile.jpg?raw=True
+        link_text: 📄
+        #sub_title: Mathematics Department Qualifications (eg. BA Performing Arts)
         caption: Mar 2017 - current
         quote: >
           Short institution or course description (optional)
       - layout: top-right
         title: ADSP
-        sub_title: Mathematics Department Qualifications (eg. BA Performing Arts)
+        link: https://github.com/TAEWOOGWAK/TAEWOOGWAK.github.io/blob/master/images/profile.jpg?raw=True
+        link_text: 📄
+        #sub_title: Mathematics Department Qualifications (eg. BA Performing Arts)
         caption: Mar 2017 - current
         quote: >
           Short institution or course description (optional)
       - layout: top-right
         title: Tensorflow Certification
-        sub_title: Mathematics Department Qualifications (eg. BA Performing Arts)
+        link: https://github.com/TAEWOOGWAK/TAEWOOGWAK.github.io/blob/master/images/profile.jpg?raw=True
+        link_text: 📄
+        #sub_title: Mathematics Department Qualifications (eg. BA Performing Arts)
         caption: Mar 2017 - current
         quote: >
           Short institution or course description (optional)
