@@ -113,7 +113,7 @@ content:
     content:
       - layout: top-right
         title: SQLD
-        link: https://raw.githubusercontent.com/TAEWOOGWAK/TAEWOOGWAK.github.io/images/profile.jpg
+        link: <img src='https://github.com/TAEWOOGWAK/TAEWOOGWAK.github.io/images/profile.jpg'>
         link_text: REPORT
         sub_title: Mathematics Department Qualifications (eg. BA Performing Arts)
         caption: Mar 2017 - current
