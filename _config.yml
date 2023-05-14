@@ -70,7 +70,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: Can AI Augument Data?
         link: github.com/TAEWOOGWAK/AI_Can_Agument_Data/Can AI Augment Data.pdf
-        link_text: Link Text
+        link_text: REPORT
         additional_links:
           - title: TAEWOOGWAK/AI_Can_Agument_Data
             icon: fab fa-github
