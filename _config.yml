@@ -112,13 +112,25 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Ajou Univ.
+        title: SQLD
         sub_title: Mathematics Department Qualifications (eg. BA Performing Arts)
         caption: Mar 2017 - current
         quote: >
           Short institution or course description (optional)
       - layout: top-right
-        title: Ajou Univ.
+        title: 빅데이터분석기사
+        sub_title: Mathematics Department Qualifications (eg. BA Performing Arts)
+        caption: Mar 2017 - current
+        quote: >
+          Short institution or course description (optional)
+      - layout: top-right
+        title: ADSP
+        sub_title: Mathematics Department Qualifications (eg. BA Performing Arts)
+        caption: Mar 2017 - current
+        quote: >
+          Short institution or course description (optional)
+      - layout: top-right
+        title: Tensorflow Certification
         sub_title: Mathematics Department Qualifications (eg. BA Performing Arts)
         caption: Mar 2017 - current
         quote: >
