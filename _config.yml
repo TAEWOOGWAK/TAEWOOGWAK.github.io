@@ -69,10 +69,10 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Can AI Augument Data?
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link: github.com/TAEWOOGWAK/AI_Can_Agument_Data/Can AI Augment Data.pdf
         link_text: Link Text
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title: TAEWOOGWAK/AI_Can_Agument_Data
             icon: fab fa-github
             url: github.com/TAEWOOGWAK/AI_Can_Agument_Data
         quote: >
