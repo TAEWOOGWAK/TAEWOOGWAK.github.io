@@ -110,10 +110,7 @@ content:
         #  Description of qualification
   - title: Certification
     layout: list
-    description: | # this will include new lines to allow paragraphs
-          Description of qualification
-    content:
-        
+    content:        
       - layout: top-right
         title: SQLD
         link: https://github.com/TAEWOOGWAK/TAEWOOGWAK.github.io/blob/master/images/profile.jpg?raw=True
@@ -146,8 +143,8 @@ content:
         caption: Mar 2017 - current
         #quote: >
         #  Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+        #description: | # this will include new lines to allow paragraphs
+        #  Description of qualification
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
