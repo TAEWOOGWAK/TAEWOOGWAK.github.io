@@ -98,16 +98,16 @@ content:
         title: Ajou Univ. Mathematics Department
         sub_title: Software (double major)
         caption: Mar 2017 - current
-        quote: >
-          Short institution or course description (optional)
+        #quote: >
+        #  Short institution or course description (optional)
       - layout: top-right
         title: Asan High School
         sub_title: Graduate
         caption: Mar 2014 - Feb 2017
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+        #quote: >
+        #  Short institution or course description (optional)
+        #description: | # this will include new lines to allow paragraphs
+        #  Description of qualification
   - title: Certification
     layout: list
     content:
