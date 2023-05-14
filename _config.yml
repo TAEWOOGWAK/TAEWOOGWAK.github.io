@@ -95,9 +95,15 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: Ajou Univ.
+        sub_title: Mathematics Department Qualifications (eg. BA Performing Arts)
+        caption: Mar 2017 - current
+        quote: >
+          Short institution or course description (optional)
+      - layout: top-right
+        title: Ajou Univ.
+        sub_title: Mathematics Department Qualifications (eg. BA Performing Arts)
+        caption: Mar 2017 - current
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
