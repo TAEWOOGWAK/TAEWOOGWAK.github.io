@@ -96,51 +96,59 @@ content:
     content:
       - layout: top-right
         title: Ajou Univ. Mathematics Department
-        sub_title: Software (double major)
-        caption: Mar 2017 - current
+        sub_title: Software Department(double major)
+        caption: Mar. 2017 - current
         #quote: >
         #  Short institution or course description (optional)
       - layout: top-right
         title: Asan High School
         sub_title: Graduate
-        caption: Mar 2014 - Feb 2017
+        caption: Mar. 2014 - Feb. 2017
         #quote: >
         #  Short institution or course description (optional)
         #description: | # this will include new lines to allow paragraphs
         #  Description of qualification
   - title: Certification
     layout: list
-    content:        
+    content:
       - layout: top-right
-        title: SQLD
-        link: https://github.com/TAEWOOGWAK/TAEWOOGWAK.github.io/blob/master/images/profile.jpg?raw=True
+        title: ADsP
+        link: https://github.com/TAEWOOGWAK/TAEWOOGWAK.github.io/blob/master/images/adsp.jpeg?raw=True
         link_text: 📄
-        sub_title: Mathematics Department Qualifications (eg. BA Performing Arts)
-        caption: Mar 2017 - current
+        #sub_title: Mathematics Department Qualifications (eg. BA Performing Arts)
+        caption: Sep. 2021 - 
         #quote: >
         #  Short institution or course description (optional)
       - layout: top-right
         title: 빅데이터분석기사
-        link: https://github.com/TAEWOOGWAK/TAEWOOGWAK.github.io/blob/master/images/profile.jpg?raw=True
+        link: https://github.com/TAEWOOGWAK/TAEWOOGWAK.github.io/blob/master/images/bigdata.jpeg?raw=True
         link_text: 📄
         #sub_title: Mathematics Department Qualifications (eg. BA Performing Arts)
-        caption: Mar 2017 - current
+        caption: Dec. 2022 - 
         #quote: >
         #  Short institution or course description (optional)
       - layout: top-right
-        title: ADSP
-        link: https://github.com/TAEWOOGWAK/TAEWOOGWAK.github.io/blob/master/images/profile.jpg?raw=True
+        title: SQLD
+        link: https://github.com/TAEWOOGWAK/TAEWOOGWAK.github.io/blob/master/images/sqld.jpeg?raw=True
         link_text: 📄
         #sub_title: Mathematics Department Qualifications (eg. BA Performing Arts)
-        caption: Mar 2017 - current
+        caption: Apr. 2023 - 
         #quote: >
         #  Short institution or course description (optional)
       - layout: top-right
         title: Tensorflow Certification
-        link: https://github.com/TAEWOOGWAK/TAEWOOGWAK.github.io/blob/master/images/profile.jpg?raw=True
+        link: https://github.com/TAEWOOGWAK/TAEWOOGWAK.github.io/blob/master/images/tensorflow.jpeg?raw=True
         link_text: 📄
         #sub_title: Mathematics Department Qualifications (eg. BA Performing Arts)
-        caption: Mar 2017 - current
+        caption: Aug. 2021 - Aug. 2024
+        #quote: >
+        #  Short institution or course description (optional)
+        - layout: top-right
+        title: TOEIC Speaking
+        link: https://github.com/TAEWOOGWAK/TAEWOOGWAK.github.io/blob/master/images/toeic.jpeg?raw=True
+        link_text: 📄
+        #sub_title: Mathematics Department Qualifications (eg. BA Performing Arts)
+        caption: Apr. 2023 - Apr. 2025
         #quote: >
         #  Short institution or course description (optional)
         #description: | # this will include new lines to allow paragraphs
