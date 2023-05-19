@@ -113,7 +113,7 @@ content:
     content:
       - layout: top-right
         title: ADsP
-        link: https://github.com/TAEWOOGWAK/TAEWOOGWAK.github.io/blob/master/images/adsp.jpeg?raw=True
+        link: https://github.com/TAEWOOGWAK/TAEWOOGWAK.github.io/blob/master/images/adsp.jpg?raw=True
         link_text: 📄
         #sub_title: Mathematics Department Qualifications (eg. BA Performing Arts)
         caption: Sep. 2021 - 
@@ -121,7 +121,7 @@ content:
         #  Short institution or course description (optional)
       - layout: top-right
         title: 빅데이터분석기사
-        link: https://github.com/TAEWOOGWAK/TAEWOOGWAK.github.io/blob/master/images/bigdata.jpeg?raw=True
+        link: https://github.com/TAEWOOGWAK/TAEWOOGWAK.github.io/blob/master/images/bigdata.jpg?raw=True
         link_text: 📄
         #sub_title: Mathematics Department Qualifications (eg. BA Performing Arts)
         caption: Dec. 2022 - 
@@ -129,7 +129,7 @@ content:
         #  Short institution or course description (optional)
       - layout: top-right
         title: SQLD
-        link: https://github.com/TAEWOOGWAK/TAEWOOGWAK.github.io/blob/master/images/sqld.jpeg?raw=True
+        link: https://github.com/TAEWOOGWAK/TAEWOOGWAK.github.io/blob/master/images/sqld.jpg?raw=True
         link_text: 📄
         #sub_title: Mathematics Department Qualifications (eg. BA Performing Arts)
         caption: Apr. 2023 - 
@@ -137,7 +137,7 @@ content:
         #  Short institution or course description (optional)
       - layout: top-right
         title: Tensorflow Certification
-        link: https://github.com/TAEWOOGWAK/TAEWOOGWAK.github.io/blob/master/images/tensorflow.jpeg?raw=True
+        link: https://github.com/TAEWOOGWAK/TAEWOOGWAK.github.io/blob/master/images/tensorflow.jpg?raw=True
         link_text: 📄
         #sub_title: Mathematics Department Qualifications (eg. BA Performing Arts)
         caption: Aug. 2021 - Aug. 2024
@@ -145,7 +145,7 @@ content:
         #  Short institution or course description (optional)
         - layout: top-right
         title: TOEIC Speaking
-        link: https://github.com/TAEWOOGWAK/TAEWOOGWAK.github.io/blob/master/images/toeic.jpeg?raw=True
+        link: https://github.com/TAEWOOGWAK/TAEWOOGWAK.github.io/blob/master/images/toeic.jpg?raw=True
         link_text: 📄
         #sub_title: Mathematics Department Qualifications (eg. BA Performing Arts)
         caption: Apr. 2023 - Apr. 2025
