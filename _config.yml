@@ -143,7 +143,7 @@ content:
         caption: Aug. 2021 - Aug. 2024
         #quote: >
         #  Short institution or course description (optional)
-        - layout: top-right
+      - layout: top-right
         title: TOEIC Speaking
         link: https://github.com/TAEWOOGWAK/TAEWOOGWAK.github.io/blob/master/images/toeic.jpg?raw=True
         link_text: 📄
