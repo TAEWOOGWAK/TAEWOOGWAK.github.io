@@ -55,13 +55,6 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   - 👋 Hi, I’m taewoo gwak
   - 👀 I’m interested in Computer Vision & Machine Learning
-#  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-#  my test2
-#  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-#    - Lists
-#    - Tables
-#    - <a href="google.com">Links</a>
-#    - Images ![alt text](/images/landscape-trees.jpg "Trees")
   <br/>  
   <center><table align="center"><tr><td valign="top" width="50%">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;&nbsp;
